@@ -5,7 +5,7 @@ android {
     defaultConfig {
         applicationId "com.tomatodev.timerdroid"
         minSdkVersion 18
-        targetSdkVersion 26
+        targetSdkVersion 28
         versionCode 1412312
         versionName "3.1.2"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
